@@ -12,4 +12,5 @@ At the end of the pipeline, the TROCR gives to the user the recognized text.
 
 
 Author: Rodrigo Alvarez
+
 Year: 2024
