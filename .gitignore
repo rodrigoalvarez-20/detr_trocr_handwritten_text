@@ -1,0 +1,8 @@
+checkpoints/
+__pycache__/
+tb/
+trash/
+models/
+finetuned/
+datasets/
+utils/clearml+logger.py
